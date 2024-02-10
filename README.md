@@ -1,11 +1,10 @@
 # MYCELIUM
 Decentralized Human-Centric Social Network 
 
-Project Name: Decentralized Humanistic Social Network
 
 Overview:
 
-Welcome to the MYCELIUM! Our project aims to provide users with a platform that utilizes technology to enable individuals manifest their full potential in various aspects of life. Whether it's health, finance, education, or social interactions, our decentralized network offers a range of tools and features to empower users in their personal growth journey.
+Welcome to the MYCELIUM! Our project aims to provide users with a decentralized social media platform that utilizes technology to enable individuals manifest their full potential in the aspects of life that really matter. Health, finance, education, or social interactions, our decentralized network offers a range of tools and features to empower users in their personal growth, attempting to fix the emerging pathologies of the social networks broadly used today.
 
 Features:
 
